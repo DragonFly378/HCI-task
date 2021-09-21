@@ -10,7 +10,9 @@
 ## This is Our team ##
 <img src='profile/profile.jpg'>
 
-<center>Centered text</center>
+<p align="center">
+    // Your content
+</p>
 
 ## First Assignment ##
 
