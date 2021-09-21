@@ -10,9 +10,9 @@
 ## This is Our team ##
 <img src='profile/profile.jpg'>
 
-<p align="center">
+<h1 align="center">
     // Your content
-</p>
+</h1>
 
 ## First Assignment ##
 
