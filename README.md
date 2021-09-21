@@ -10,6 +10,8 @@
 ## This is Our team ##
 <img src='profile/profile.jpg'>
 
+<center>Centered text</center>
+
 ## First Assignment ##
 
 -  Find similar incident in the past record
